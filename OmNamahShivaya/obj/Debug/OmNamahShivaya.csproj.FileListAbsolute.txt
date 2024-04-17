@@ -1,0 +1,7 @@
+C:\Users\DotcraftInnovations\source\repos\OmNamahShivaya\OmNamahShivaya\bin\Debug\OmNamahShivaya.exe.config
+C:\Users\DotcraftInnovations\source\repos\OmNamahShivaya\OmNamahShivaya\bin\Debug\OmNamahShivaya.exe
+C:\Users\DotcraftInnovations\source\repos\OmNamahShivaya\OmNamahShivaya\bin\Debug\OmNamahShivaya.pdb
+C:\Users\DotcraftInnovations\source\repos\OmNamahShivaya\OmNamahShivaya\obj\Debug\OmNamahShivaya.csproj.AssemblyReference.cache
+C:\Users\DotcraftInnovations\source\repos\OmNamahShivaya\OmNamahShivaya\obj\Debug\OmNamahShivaya.csproj.CoreCompileInputs.cache
+C:\Users\DotcraftInnovations\source\repos\OmNamahShivaya\OmNamahShivaya\obj\Debug\OmNamahShivaya.exe
+C:\Users\DotcraftInnovations\source\repos\OmNamahShivaya\OmNamahShivaya\obj\Debug\OmNamahShivaya.pdb
