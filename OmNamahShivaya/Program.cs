@@ -11,6 +11,7 @@ namespace OmNamahShivaya
         static void Main(string[] args)
         {
             Console.WriteLine("Om Namah Shivaya..");
+            Console.WriteLine("hello world");
             Console.ReadKey();
         }
     }
